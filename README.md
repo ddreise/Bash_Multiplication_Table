@@ -1,1 +1,3 @@
-# OS_Midterm
+# Bash Multiplication Table
+
+Writen for Operating Systems midterm examination.
